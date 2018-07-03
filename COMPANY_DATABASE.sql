@@ -1,3 +1,7 @@
+#Matthew Skipworth
+#TCSS 445, Homework 1
+#3 July, 2018
+
 CREATE TABLE EMPLOYEE(
 	Fname varchar(100),
     Minit char(1),
